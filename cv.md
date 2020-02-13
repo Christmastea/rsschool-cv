@@ -1,23 +1,24 @@
-##rsschool-cv
+## rsschool-cv
 
-##Viktar Harbachou 
+## Viktar Harbachou 
 
-##Contact Info
+## Contact Info
 - **City:** Gomel, Belarus
 - **Phone:** +37529 7329680
 - **Telegram / Skype:** Viktar Harbachou
 - **Email:** victor.gorbachew@gmail.com
 
-##Summary
+## Summary
 10 years of experience on the Belarusian railway as a communications engineer gave me the necessary skills in engineering, an extremely responsible approach to work and stress resistance. The desire for self-development and moving forward pushed to the study of web development. Now - this is the main goal, the motivation to learn new technologies every day more and more. I look forward to new challenges in order to become better at programming.
 
-##Skills
+## Skills
 - **Programming languages:** JavaScript(ES5, ES6)
 - **Web technology:** HTML5, CSS3
 - **IDE:** VS Code, Brackets
 - **Version control:** Git
 
-##Code examples
+## Code examples
+
 **Calculator program**
 ___
 **JavaScript code:**
