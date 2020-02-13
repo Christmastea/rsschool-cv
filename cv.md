@@ -83,3 +83,16 @@ function divide(){
 </html>
 ```
 ___
+
+## Experience
+
+- I studied C, Delphi, Assembler at the university. Now I'm interested in JavaScript, take courses at [htmlacademy](https://htmlacademy.ru/courses), study materials on the site [learn.javascript.ru](https://learn.javascript.ru/), do tasks on [codewars](https://www.codewars.com/dashboard).
+
+## Education
+
+- Belarusian State University of Transport(2004-2009), faculty: Electrotechnical, department: Information transfer systems, qualification: Electrical Engineer.
+- Belarusian State Economic University(2012-2015), faculty: Graduate School of Management and Business, department: World Economic, qualification: Economist.
+
+## English
+
+My english level is pre-intermediate(A2+).
