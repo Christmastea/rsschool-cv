@@ -21,7 +21,7 @@
 ## Code examples
 
 **Calculator program**
-___
+
 **JavaScript code:**
 ```
 function plus(){
