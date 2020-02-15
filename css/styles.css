@@ -8,16 +8,6 @@ body{
     margin: 0 auto;
     width: 1024px;
 }
-clearfix::after{
-    content: "";
-    display: table;
-    clear: both;
-}
-/*
-li{
-    list-style: none;
-}
-*/
 a {
   color: lightseagreen;
   text-decoration: none;
@@ -26,31 +16,34 @@ a:hover {
   color: #a9b2b9;
 }
 header img{
-    width: 400px;
+    width: 500px;
     border-radius: 10px;
 }
 span{
   font-weight: 600;  
 }
-.student-card{
-}
-.summary{
-}
 footer .email{
     float: left;
     width: 330px;
+    text-align: left;
 }
 footer .telegram{
     float: left;
     width: 330px;
+    text-align: center;
 }
 footer .phone{
     float: right;
     width: 330px;
+    text-align: right;
 }
 footer{
     margin-top: 50px;
     margin-bottom: 100px;
 }
-
-
+.main-margin{
+    margin-bottom: 40px;
+}
+.main-header{
+    margin-top: 30px;
+}
