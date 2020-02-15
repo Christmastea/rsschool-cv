@@ -9,7 +9,7 @@
 
 ## Summary
 
-10 years of experience on the Belarusian railway as a communications engineer gave me the necessary skills in engineering, an extremely responsible approach to work and stress resistance. The desire for self-development and moving forward pushed to the study of web development. Now - this is the main goal, the motivation to learn new technologies every day more and more. I look forward to new challenges in order to become better at programming.
+10 years of experience on the Belarusian railway as a communications engineer gave me the necessary skills in engineering, an extremely responsible approach to work and stress resistance. The desire for self-development and moving forward pushed to the study of web development. Now - this is the main goal, the motivation to learn new technologies every day more and more. I look forward to new challenges to become better at programming.
 
 ## Skills
 
@@ -21,6 +21,8 @@
 ## Code examples
 
 **Calculator program**
+
+___
 
 **JavaScript code:**
 ```
