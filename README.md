@@ -1,1 +1,1 @@
-https://Christmastea.github.io/rsschool-cv/cv
+https://Christmastea.github.io/rsschool-cv/
