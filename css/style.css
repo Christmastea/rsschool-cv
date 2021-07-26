@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Muli", sans-serif;
+    font-size: 16px;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 40px;
+    width: 1024px;
+    background: #adc9df;
+}
+
+.header-block .student-card{
+    display: block;
+    margin-left: 320px;
+    margin-top: -10px;
+    margin-bottom: 60px;
+}
+
+.student-card h2{
+    margin-left: 80px;
+    font-size: 23px;
+    color: #000000af;
+}
+
+.student-card p{
+    margin-left: 70px;
+    color: #000000af;
+    font-size: 16px;
+}
+
+header img{
+    margin-top: 15px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+main{
+    border-bottom: 2px solid rgb(238, 241, 241);
+}
+
+.main-margin{
+    margin-bottom: 40px;
+}
+
+a {
+  color: rgb(238, 241, 241);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e48b17;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.contact-info{
+    margin-top: 70px;
+}
+
+main h2{
+    color: #000000af;
+    margin-bottom: 7px;
+}
+
+span{
+    text-align: justify;
+    font-weight: 600;  
+}
+
+.english{
+    margin-bottom: 70px;
+}
+
+footer{
+    display: flex;
+    flex-basis: 1024px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+footer .rsschool-logo{
+    text-align: center;
+    width: 120px;
+    height: 70px;
+    background: url("../img/logo_rs_school_js.svg") center no-repeat;
+}
+
+footer .github-link {
+    margin-top: 15px;
+}
+
+footer .github-link p{
+    margin-top: 6px;
+}
+
